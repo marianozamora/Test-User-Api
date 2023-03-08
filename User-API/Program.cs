@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using SuperHeroAPI.Data;
+using UserAPI.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
